@@ -1,3 +1,10 @@
+# [0.1.0](https://github.com/1gr14/create-start0/compare/v0.0.1...v0.1.0) (2026-06-10)
+
+
+### Features
+
+* ship the npm-create shim ([99ad04e](https://github.com/1gr14/create-start0/commit/99ad04e1db2e033f439cb4cfedc582803f10a567))
+
 ## [0.0.1](https://github.com/1gr14/create-start0/compare/v0.0.0...v0.0.1) (2026-06-10)
 
 

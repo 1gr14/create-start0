@@ -1,6 +1,6 @@
 {
   "name": "create-start0",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Create a start0 app — `npm create start0`. Thin wrapper over the 1gr14 CLI.",
   "keywords": [
     "start0",
