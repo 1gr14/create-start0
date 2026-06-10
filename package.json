@@ -1,7 +1,7 @@
 {
   "name": "create-start0",
   "version": "0.0.0",
-  "description": "Create a start0 app — `npm create start0`. Thin wrapper over the 1gr14 CLI.",
+  "description": "Create a start0 app \u2014 `npm create start0`. Thin wrapper over the 1gr14 CLI.",
   "keywords": [
     "start0",
     "create",
@@ -72,7 +72,7 @@
     "clean": "rimraf dist && rimraf dist-npm && rimraf node_modules/.cache"
   },
   "dependencies": {
-    "1gr14": "file:../1gr14",
+    "1gr14": "^0.2.0",
     "commander": "^14.0.0"
   },
   "peerDependencies": {},
