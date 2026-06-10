@@ -92,6 +92,9 @@ jobs:
           name: build-files
           path: .
 
+      - name: Install runtime deps
+        run: npm install --omit=dev --no-audit --no-fund
+
       - name: Smoke test built package
         run: node scripts/smoke.mjs
 
