@@ -1,3 +1,10 @@
+## [0.1.1](https://github.com/1gr14/create-start0/compare/v0.1.0...v0.1.1) (2026-06-10)
+
+
+### Bug Fixes
+
+* require 1gr14 ^0.3.0 — the API-key auth the site expects ([d362a2e](https://github.com/1gr14/create-start0/commit/d362a2e8ff8fd9138cba4a808dc525efe5cdf3a6))
+
 # [0.1.0](https://github.com/1gr14/create-start0/compare/v0.0.1...v0.1.0) (2026-06-10)
 
 
