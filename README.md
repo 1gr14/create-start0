@@ -12,9 +12,9 @@
 library's Overview page. Keep the markers; put badges/header above docs:start and
 the Community/Contributing/License footer below docs:end. -->
 
-[start0](https://1gr14.dev) is a complete SaaS boilerplate — auth, admin, forms,
-CRUD, tests — built on the 1gr14 stack. This package is the standard way to
-start an app from it:
+[start0](https://1gr14.dev/start0) is a complete SaaS boilerplate — auth, admin,
+forms, CRUD, tests — built on the 1gr14 stack. This package is the standard way
+to start an app from it:
 
 ```sh
 bun create start0 my-app
@@ -58,7 +58,7 @@ directly.
 Questions, bugs, or want to hang with other builders? Join the 1gr14 community —
 one hub for all our open-source projects, this one included. Get help, share
 what you built, or just say hi:
-[1gr14.dev/community](https://1gr14.dev/community)
+[1gr14.dev/#community](https://1gr14.dev/#community)
 
 ## Contributing
 
@@ -73,8 +73,5 @@ Issues and PRs welcome. See [CONTRIBUTING.md](./CONTRIBUTING.md) and the
 
 ---
 
-```text
-Building open-source software for the glory of the Lord Jesus Christ ☦️
-With love for developers of all backgrounds around the world ❤️
-Sergei Dmitriev, 2026 😎
-```
+Made by [1gr14](https://1gr14.dev), driven by
+[community](https://1gr14.dev/#community)
