@@ -1,5 +1,7 @@
 ## Unreleased
 
+## 0.1.3 — 2026-07-13
+
 - Require `1gr14` `^0.3.7` (was `^0.3.3`). A patch to the pinned `1gr14` CLI
   didn't reach people whose bun cache already held an older in-range build — bun
   reused the cached version instead of fetching the newer one, so a CLI fix
