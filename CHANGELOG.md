@@ -1,3 +1,11 @@
+## Unreleased
+
+- Require `1gr14` `^0.3.7` (was `^0.3.3`). A patch to the pinned `1gr14` CLI
+  didn't reach people whose bun cache already held an older in-range build — bun
+  reused the cached version instead of fetching the newer one, so a CLI fix
+  never showed up in `bun create start0`. Raising the floor past the cached
+  version forces the fetch, so `bun create start0` always runs the current CLI.
+
 ## [0.1.1](https://github.com/1gr14/create-start0/compare/v0.1.0...v0.1.1) (2026-06-10)
 
 
