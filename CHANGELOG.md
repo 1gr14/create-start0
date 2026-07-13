@@ -1,5 +1,9 @@
 ## Unreleased
 
+- Require `1gr14` `^0.3.8` (was `^0.3.7`) so `bun create start0` picks up the CLI
+  0.3.8 spinner cleanup past a warm bun cache (same reason as 0.1.3). Also
+  swapped stray single-character ellipses for plain `...` in the release scripts.
+
 ## 0.1.3 — 2026-07-13
 
 - Require `1gr14` `^0.3.7` (was `^0.3.3`). A patch to the pinned `1gr14` CLI

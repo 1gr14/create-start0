@@ -5,7 +5,7 @@
     "": {
       "name": "create-start0",
       "dependencies": {
-        "1gr14": "^0.3.7",
+        "1gr14": "^0.3.8",
         "commander": "^15.0.0",
       },
       "devDependencies": {
@@ -32,7 +32,7 @@
     },
   },
   "packages": {
-    "1gr14": ["1gr14@0.3.7", "", { "dependencies": { "@clack/prompts": "^1.5.1", "commander": "^15.0.0", "open": "^11.0.0", "tar": "^7.5.16" }, "bin": { "1gr14": "dist/cli.js" } }, "sha512-UX4xmErdwy+BED2eJoqU8Jk8tJPk1Sw8H69AJbO2ajTk2j86xnUUymGC9WzhVtoS7lLWE2iWucpNVdnnBbcQTA=="],
+    "1gr14": ["1gr14@0.3.8", "", { "dependencies": { "@clack/prompts": "^1.5.1", "commander": "^15.0.0", "open": "^11.0.0", "tar": "^7.5.16" }, "bin": { "1gr14": "dist/cli.js" } }, "sha512-aKVDx/m/wXIslfxGXSGwXgX14nsunZ9a2fqLJlCHOFNw6HP+kVwBLAUbkG7aSGc7OXYG/ZL2O93hD6PVLpZzRA=="],
 
     "@andrewbranch/untar.js": ["@andrewbranch/untar.js@1.0.3", "", {}, "sha512-Jh15/qVmrLGhkKJBdXlK1+9tY4lZruYjsgkDFj08ZmDiWVBLJcqkok7Z0/R0In+i1rScBpJlSvrTS2Lm41Pbnw=="],
 
